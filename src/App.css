@@ -1,6 +1,15 @@
 .App {
   text-align: center;
 }
+.zdjecie{
+  border: #282c34 1px solid;
+  width:fit-content;
+  margin: auto;
+  margin: 5px;
+  padding-bottom: 5px;
+  float: left;
+  text-align: center;
+}
 
 .App-logo {
   height: 40vmin;
